@@ -1,4 +1,4 @@
-package GA_WEEK02_2;
+package GA_WEEK02;
 //Let me tell you about this code, it contain use of construtor and kinda demonstrate how can we use classes in a java program.
 //Basically what this Program do is take input of Employee's name, dept and id and Demonstrate two key factor how can be copy data from other object and how can we display that.
 //Like in the main we displayed only e1 in which we copied the Department details of e2 which we took input from the user.
